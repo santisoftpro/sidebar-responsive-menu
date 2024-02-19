@@ -145,6 +145,22 @@ body {
     background-color: #fff;
 }
 
+.menu-close {
+    position: absolute;
+    right: -14px;
+    bottom: 30%;
+    width: 28px;
+    height: 28px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: #757575;
+    border: 2px solid #f6f6f6;
+    background-color: #fff;
+}
+
 .menu-btn:hover i {
     color: #000;
 }
